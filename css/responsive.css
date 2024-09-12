@@ -1,0 +1,266 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .main-menu li {
+        margin: 0 16px;
+    }
+
+    .about-desc h3 {
+        font-size: 32px;
+        margin: 10px 0;
+    }
+
+    .service-price p {
+        font-size: 20px;
+    }
+
+    .service-price span {
+        font-size: 16px;
+    }
+
+    .sinlge-service-box > p {
+        font-size: 20px;
+    }
+
+    .footer-logo {
+        width: 15%;
+    }
+
+    .footer-phone {
+        width: 26%;
+    }
+
+
+
+	
+} 
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-btns {
+        margin-bottom: 30px;
+    }
+
+    .about-banner {
+        margin-top: 30px;
+    }
+
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+
+    .single-team-box {
+        margin-top: 30px;
+    }
+
+    .sinlge-service-box > p {
+        font-size: 20px;
+    }
+
+    .footer-area {
+        padding-top: 120px;
+    }
+
+    .contact-address {
+        margin-top: 30px;
+    }
+
+    .footer-logo {
+        width: 13%;
+    }
+
+    .footer-phone {
+        width: 27%;
+    }
+
+    .policy-trems ul li {
+        margin: 0 5px;
+    }
+
+
+}
+
+/*FOR-MOBIL-START*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .hero-btns {
+        margin-bottom: 30px;
+    }
+
+    .single-care-efficient {
+        margin-bottom: 20px;
+    }
+
+    .sinlge-service-box {
+        margin-top: 30px;
+    }
+
+    .about-desc h3 {
+        font-size: 36px;
+        margin: 14px 0;
+    }
+
+    .about-banner {
+        margin-top: 30px;
+    }
+
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+
+    .single-team-box {
+        margin-top: 30px;
+    }
+
+    .footer-area {
+        padding-top: 100px;
+    }
+
+    .footer-logo {
+        width: 12%;
+    }
+
+    .footer-phone {
+        width: 32%;
+    }
+  
+
+
+
+}
+
+
+@media screen and (max-width: 575px) {
+    .hero-area {
+        padding-top: 40px;     
+        padding-bottom: 40px;   
+    }
+
+    .care-efficient-area {
+        padding-bottom: 40px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 50px;
+    }
+
+    .hero-btns {
+        margin-bottom: 30px;
+    }
+
+    .hero-text h2 {
+        font-size: 32px;
+    }
+
+    .hero-text p {
+        font-size: 20px;
+    }
+
+    .single-care-efficient {
+        margin-bottom: 20px;
+    }
+
+    .about-desc h3 {
+        font-size: 25px;
+        margin: 10px 0;
+    }
+
+    #mt-5 {
+        margin-top: 15px;
+    }
+
+    .about-area {
+        padding-bottom: 60px;
+    }
+
+    .meet-team-area {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+
+    .meet-team-area h2 {
+        font-size: 42px;
+    }
+
+    .about-banner {
+        margin-top: 20px;
+    }
+
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+
+    .service-title h2 {
+        margin: 10px 0;
+    }
+
+    .single-team-box {
+        margin-top: 30px;
+    }
+
+    .service-title h2 {
+        font-size: 34px;
+    }
+
+    .service-area {
+        margin-top: 50px;
+    }
+
+    .sinlge-service-box {
+        margin-top: 30px;
+    }
+
+    .sinlge-service-box > p {
+        font-size: 20px;
+    }
+
+    .footer-area {
+        padding-top: 90px;
+    }
+
+    .form-title h3 {
+        font-size: 47px;
+    }
+
+    .contact-form {
+        padding: 30px 15px;
+    }
+
+    .form-title {
+        margin-bottom: 20px;
+    }
+
+    .name-input, .email-number-input {
+        display: initial;
+    }
+
+    .first-name, .last-name, .email, .phone-number {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .copy-contact {
+        display: initial !important;
+    }
+
+    .footer-email-location {
+        width: 100% !important;
+        padding-left: 0px !important;
+        margin: 10px 0;
+    }
+
+    .footer-phone {
+        width: 100%;
+    }
+
+    .footer-social-icon {
+        text-align: left !important;
+    }
+
+
+
+
+}
